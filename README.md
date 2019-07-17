@@ -4,7 +4,7 @@ Python implementation of a Naive Bayes classifier which takes a series of text d
 
 # File description
 
-main.py : the python implementation of the algorithm
+main.py : the python implementation of the algorithm\
 stopwords-en.txt : a text file containing the main english stopwords
 
 ## Build the project
@@ -19,19 +19,19 @@ As there is a different number of documents for each category, I chose to equali
 
 At this point the structure of your project should be the following:
 
-NaiveBayes-Text-Classificatiom
-  main.py
-  stopwords-en.txt
-  Dataset
-    business
-      ...
-    entertainment
-      ...
-    politics
-      ...
-    sport
-      ...
-    tech
+NaiveBayes-Text-Classification\
+  main.py\
+  stopwords-en.txt\
+  Dataset\
+    business\
+      ...\
+    entertainment\
+      ...\
+    politics\
+      ...\
+    sport\
+      ...\
+    tech\
       ...
 
 ## Run the project
