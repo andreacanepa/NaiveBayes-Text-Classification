@@ -2,7 +2,7 @@
 
 Python implementation of a Naive Bayes classifier which takes a series of text documents and categorizes them into five different categories: business, entertainment, sport, politics and tech by applyng multi-category classification.
 
-# File description
+## File description
 
 *main.py* : the python implementation of the algorithm\
 *stopwords-en.txt* : a text file containing the main english stopwords
