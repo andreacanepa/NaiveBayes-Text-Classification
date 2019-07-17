@@ -19,20 +19,15 @@ As there is a different number of documents for each category, I chose to equali
 
 At this point the structure of your project should be the following:
 
-NaiveBayes-Text-Classification\
+NaiveBayes-Text-Classification
  - main.py
  - stopwords-en.txt
  - Dataset
-   - business
-    - ...
-   - entertainment
-    - ...
-   - politics
-    - ...
-   - sport
-    - ...
-   - tech
-    - ...
+   - business (containing business text files)
+   - entertainment (containing entertainment text files)
+   - politics (containing politics text files)
+   - sport (containing sport text files)
+   - tech (containing tech text files)
 
 ## Run the project
 
